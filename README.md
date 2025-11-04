@@ -1,5 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-    <h1 align="center">Greeting , I'm Nguyen Minh Nhat Just </h1>
+    <h1 align="center">Greeting , I'm Nguyen Minh Nhat </h1>
     <h2 align="center">You can call me Nat </h2>
     <i>About me</i>
     <br/>
@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,graphql,mysql,nestjs)](https://github.com/BossHacke)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,.NET,mysql,nestjs)](https://github.com/BossHacke)
 
 <img src="https://github-readme-stats.vercel.app/api?username=BossHacke&show_icons=true&icon_color=CE1D2D" />
 
