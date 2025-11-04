@@ -1,5 +1,6 @@
+
 <div align="center">
-  ![Image](https://github.com/user-attachments/assets/231a0697-880e-4e1a-b51e-fae4cc94cd08)
+  <img src="https://github.com/user-attachments/assets/231a0697-880e-4e1a-b51e-fae4cc94cd08" />
 </div>
     <h1 align="center">Greeting , I'm Nguyen Minh Nhat </h1>
     <h2 align="center">You can call me Nat </h2>
