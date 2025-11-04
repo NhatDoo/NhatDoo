@@ -1,8 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-    <h1 align="center">Hi 👋, I'm Vo Nguyen Phi Hung</h1>
+    <h1 align="center">Greeting , I'm Nguyen Minh Nhat Just </h1>
+    <h2 align="center">You can call me Nat </h2>
     <i>About me</i>
     <br/>
-    <a href="mailto:vonguyenphihung123@gmail.com">
+    <a href="minhnhat31003@gmail.com@gmail.com">
         <img src="https://img.shields.io/badge/gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
     </a>
     <br/>
