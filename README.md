@@ -1,4 +1,6 @@
-<iframe src="https://drive.google.com/file/d/1bfO6yAAH1zbceCLFpOv_AxjoOtRjeq8V/preview" width="640" height="480"></iframe>
+<div align="center">
+  <iframe src="https://drive.google.com/file/d/1bfO6yAAH1zbceCLFpOv_AxjoOtRjeq8V/preview" width="640" height="360"></iframe>
+</div>
     <h1 align="center">Greeting , I'm Nguyen Minh Nhat </h1>
     <h2 align="center">You can call me Nat </h2>
     <i>About me</i>
