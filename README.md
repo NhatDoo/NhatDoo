@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,mysql,nestjs)](https://github.com/NhatDoo)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,mysql,nestjs,python)](https://github.com/NhatDoo)
 
 <img src="https://github-readme-stats.vercel.app/api?username=NhatDoo&show_icons=true&icon_color=CE1D2D" />
 
@@ -24,8 +24,9 @@
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NhatDoo&theme=radical&exclude=dart,flutter,java,git,github,mysql,nestjs,postgres"/>
 
 <a href="https://github.com/NhatDoo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossHacke&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatDoo&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&card_width=699&hide_border=true&theme=transparent" />
   </a>
+<i>Although I work a lot with Python in my projects, I am currently focusing more on researching and developing with NodeJS and NestJS for backend development.</i>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
 </div>
