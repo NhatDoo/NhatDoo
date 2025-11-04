@@ -26,7 +26,10 @@
 <a href="https://github.com/NhatDoo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatDoo&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&card_width=699&hide_border=true&theme=transparent" />
   </a>
-<i>Although I work a lot with Python in my projects, I am currently focusing more on researching and developing with NodeJS and NestJS for backend development.</i>
+<div>
+  <i>Although I work a lot with Python in my projects, I am currently focusing more on researching and developing with NodeJS and NestJS for backend development</i>
+</div>
+
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
 </div>
