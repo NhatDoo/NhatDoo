@@ -24,7 +24,7 @@
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NhatDoo&theme=radical&exclude=dart,flutter,java,git,github,mysql,nestjs,postgres"/>
 
 <a href="https://github.com/NhatDoo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatDoo&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=compact&card_width=699&hide_border=true&theme=transparent" />
+  
   </a>
 <div>
   <i>Although I work a lot with Python in my projects, I am currently focusing more on researching and developing with NodeJS and NestJS for backend development</i>
