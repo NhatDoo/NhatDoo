@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,mysql,nestjs,python)](https://github.com/NhatDoo)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,mysql,nestjs,python)]
 <img src="https://github-readme-stats.vercel.app/api?username=NhatDoo&show_icons=true&icon_color=CE1D2D" />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NhatDoo&theme=dark)](https://github.com/NhatDoo?tab=repositories)
 
