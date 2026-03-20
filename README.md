@@ -5,11 +5,7 @@
     <h1 align="center">Greeting , I'm Nguyen Minh Nhat </h1>
     <h2 align="center">You can call me Nat </h2>
     <i>About me</i>
-    <br/>
-    <a href="minhnhat31003@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
-    </a>
-    <br/>
+
 <i>I am a student at the University of Natural Resources and Environment majoring in Software Technology. I'm passionate about technology and love turning ideas into real products through code. My main focus is Backend Development and system architecture. I enjoy learning new technologies and continuously improving my skills, especially in backend ecosystems such as FastAPI, NestJS, microservices and cloud deployment. Besides programming, I also love listening to music.</i>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
