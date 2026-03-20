@@ -6,7 +6,7 @@
     <h2 align="center">You can call me Nat </h2>
     <i>About me</i>
     <br/>
-    <a href="minhnhat31003@gmail.com@gmail.com">
+    <a href="minhnhat31003@gmail.com">
         <img src="https://img.shields.io/badge/gmail-blue?style=flat-square&logo=gmail" alt="Gmail">
     </a>
     <br/>
