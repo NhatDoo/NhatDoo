@@ -18,6 +18,8 @@
 <img src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NhatDoo&theme=radical&exclude=dart,flutter,java,git,github,mysql,nestjs,postgres"/>
 
 <h3 align="left">Connect with me:</h3>
+<i>Phonenumber: 0777057475</i>
+<i>Email: minhnhat31003@gmail.com</i>
 
 <p align="left">
   <a href="https://leetcode.com/u/gpp1jag8pq/" target="blank">
