@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,java,git,github,mysql,nestjs,python)
+![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,git,github,mysql,nestjs)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NhatDoo&theme=dark)](https://github.com/NhatDoo?tab=repositories)
 
