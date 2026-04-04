@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,git,postgresql,github,mysql,nestjs)
+![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,git,postgresql,mongodb,github,mysql,nestjs)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NhatDoo&theme=dark)](https://github.com/NhatDoo?tab=repositories)
 
