@@ -30,6 +30,6 @@
 <div>
   <i>Although I work a lot with Python in my projects, I am currently focusing more on researching and developing with NodeJS and NestJS for backend development</i>
 </div>
-![Profile views](https://komarev.com/ghpvc/?username=NhatDoo&color=blue)
+
 
 </div>
